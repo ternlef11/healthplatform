@@ -1,0 +1,70 @@
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.brcatitlecard{
+    text-align: center;
+}
+
+.title{
+    text-align:center;
+}
+
+.registerorganise, .form-group {
+    text-align: center;
+    width:100%;
+}
+
+.form-group {
+    padding-left:10%;
+    width:90%;
+}
+
+.contextstyle {
+    text-align:center;
+    font-size:1.2em;
+}
+
+.generalDetail {
+    border: 2px solid red;
+    border-radius: 10px;
+    padding:2% 2% 2% 2%;
+    background-color:rgba(255, 0, 0, 0.2);;
+}
+
+.studyDetail {
+    border: 2px solid green;
+    border-radius: 10px;
+    padding:2% 2% 2% 2%;
+    background-color:rgba(0, 255, 0, 0.2);;
+}
+
+.genContact {
+    text-align:center;
+    font-size:1.4em;
+}
+
+.frontCards{
+
+    display: flex;
+    flexDirection: row;
+}
+
+.manipulateFront{
+    padding-top:3%;
+}
+
+.slideformat{
+    width:70%;
+    height:70%;
+}
+
+.slidezone{
+    padding-top:10vh;
+    padding-bottom:10vh;
+}
+
